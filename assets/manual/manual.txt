@@ -1,0 +1,19 @@
+How does this game work?
+
+First you enter a number in the first box called Min nr.
+Then you enter a number in the second box called Max nr.
+
+These numbers are the range that the random number can generate in.
+
+The box Attempts is for the ammount of guesses that you want to take.
+
+Once you are happy with your settings click the button that says "Generate and start!" to start the game,
+a random number will be generated and you need to guess it.
+
+the green bar indicates your guesses left, the slider indicates how close you are to the number, 
+the lower the slider is the closer you are to the mistery number.
+
+To guess a number put a number in the box that is labled "My guess" and click the button called
+"Make Guess" to make the guess.
+
+The program will notify you when you guessed the number or when you are out of guesses.
